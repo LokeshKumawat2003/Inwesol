@@ -5,7 +5,7 @@ A simple contact form built with React that allows users to submit their queries
 
 ## 🌍 Live Demo  
 
-🔗 **[Click here to view the live demo](https://gentle-gnome-b179b1.netlify.app/)** 
+🔗 **[Click here to view the live demo](https://sprightly-tulumba-bf9ff7.netlify.app/)** 
 
 
 ## 🚀 Features
@@ -23,4 +23,4 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/contact-form.git
+   git clone https://github.com/LokeshKumawat2003/Inwesol.git

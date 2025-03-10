@@ -279,3 +279,7 @@ body {
     font-size: 18px;
     color: #555;
 }
+.contact-error{
+    text-align: left;
+    color: red;
+}
